@@ -1,4 +1,2 @@
 # PokemonID, Shiny, Background, Costume, Form
-25, R, NBG, NC
-384, R, London, NC
-382, S, NBG, NC
+
