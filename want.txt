@@ -1,0 +1,6 @@
+# PokemonID, Shiny, Background, Costume, Form
+382, R, NBG, NC
+384, S, London, NC
+25, S, NBG, Rayquaza Costume
+201, S, NBG, NC, A
+201, S, NBG, NC, !
